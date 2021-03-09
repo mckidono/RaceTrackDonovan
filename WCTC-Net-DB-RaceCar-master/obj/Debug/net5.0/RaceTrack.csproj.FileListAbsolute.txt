@@ -1,0 +1,15 @@
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.exe
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.dll.config
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.deps.json
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.runtimeconfig.json
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.runtimeconfig.dev.json
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.dll
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\ref\RaceTrack.dll
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\bin\Debug\net5.0\RaceTrack.pdb
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.csprojAssemblyReference.cache
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.csproj.CoreCompileInputs.cache
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.dll
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\ref\RaceTrack.dll
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.pdb
+D:\School\New folder\WCTC-Net-DB-RaceCar-master\obj\Debug\net5.0\RaceTrack.genruntimeconfig.cache
